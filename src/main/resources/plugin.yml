@@ -1,0 +1,4 @@
+name: Minetopia-Main
+version: '${project.version}'
+main: dev.kippie.minetopiamain.main
+api-version: '1.20'
