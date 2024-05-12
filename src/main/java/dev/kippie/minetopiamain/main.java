@@ -3,6 +3,7 @@ package dev.kippie.minetopiamain;
 import dev.kippie.minetopiamain.listeners.JoinListener;
 import dev.kippie.minetopiamain.listeners.LeaveListener;
 import org.bukkit.Bukkit;
+import org.bukkit.command.CommandExecutor;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class main extends JavaPlugin {

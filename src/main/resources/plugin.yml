@@ -2,3 +2,9 @@ name: Minetopia-Main
 version: '${project.version}'
 main: dev.kippie.minetopiamain.main
 api-version: '1.20'
+commands:
+  message:
+    description: Send a message to another player!
+    usage: /message (player)
+    permission: minetopia.message
+
